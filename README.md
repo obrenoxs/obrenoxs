@@ -57,7 +57,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/obrenoxs/obrenoxs/snake-output/snake.svg" alt="Snake animation" />
-
-###
