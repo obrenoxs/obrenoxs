@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Software Engineering Student<br><br>☕ Studying Java and Spring Boot<br><br>🗄️ Learning databases, JPA/Hibernate and REST APIs<br><br>🚀 Building projects and improving every day</p>
+<p align="left">🎓 Software Engineering <br><br>☕ Studying Java and Spring Boot<br><br>🗄️ Learning databases, JPA/Hibernate and REST APIs<br><br>🚀 Building projects and improving every day</p>
 
 ###
 
