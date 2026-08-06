@@ -1,10 +1,6 @@
-# 👨‍💻 Breno Souza
+# Hi There 👋 I'm Breno Souza
 
-**'Desenvolvedor Back-end'**
-
-Me chamo Breno Oliveira de Souza, tenho 18 anos e sou natural de Botucatu - SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC, paralelamente com Engenharia de Software na UniFatecie. Sou apaixonado por tecnologia e resolução de problemas.
-
----
+Desenvolvedor Back-end Java em formação, com experiência prática construindo APIs REST completas — do domínio de negócio ao deploy.
 
 ## 🚀 Projeto em destaque
 
@@ -14,6 +10,7 @@ Me chamo Breno Oliveira de Souza, tenho 18 anos e sou natural de Botucatu - SP. 
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas (FATEC Botucatu) e Engenharia de Software (UniFatecie)
 - 🧠 Foco em Backend com Java e Spring Boot — com incursões práticas em Frontend (React)
+- 🏗️ Gosto de entender o *porquê* por trás de cada decisão técnica, não só o *como*
 - 🐳 Aprofundando conhecimentos em Docker, CI/CD e Cloud Computing
 - 🎯 Buscando minha primeira oportunidade como Desenvolvedor Backend Java
 
@@ -21,6 +18,7 @@ Me chamo Breno Oliveira de Souza, tenho 18 anos e sou natural de Botucatu - SP. 
 
 **Backend**
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -38,4 +36,4 @@ Me chamo Breno Oliveira de Souza, tenho 18 anos e sou natural de Botucatu - SP. 
 
 ## 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-oliveira-souza/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
