@@ -1,6 +1,10 @@
 # Hi There 👋 I'm Breno Souza
 
-Desenvolvedor Back-end Java em formação, com experiência prática construindo APIs REST completas — do domínio de negócio ao deploy.
+**Desenvolvedor Back-end Java**
+
+Me chamo Breno Oliveira de Souza, tenho 18 anos, sou natural de Botucatu - SP. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC, paralelamente com Engenharia de Software na UniFatecie. Sou apaixonado por tecnologia e resolução de problemas.
+
+---
 
 ## 🚀 Projeto em destaque
 
@@ -8,9 +12,7 @@ Desenvolvedor Back-end Java em formação, com experiência prática construindo
 
 ## 💼 Sobre mim
 
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas (FATEC Botucatu) e Engenharia de Software (UniFatecie)
 - 🧠 Foco em Backend com Java e Spring Boot — com incursões práticas em Frontend (React)
-- 🏗️ Gosto de entender o *porquê* por trás de cada decisão técnica, não só o *como*
 - 🐳 Aprofundando conhecimentos em Docker, CI/CD e Cloud Computing
 - 🎯 Buscando minha primeira oportunidade como Desenvolvedor Backend Java
 
@@ -36,4 +38,4 @@ Desenvolvedor Back-end Java em formação, com experiência prática construindo
 
 ## 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-oliveira-souza/)
