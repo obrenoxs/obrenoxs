@@ -1,53 +1,39 @@
-<h1 align="left">Hi There 👋 I'm Breno Souza</h1>
+# Hi There 👋 I'm Breno Souza
 
-###
+Desenvolvedor Back-end Java em formação, com experiência prática construindo APIs REST completas — do domínio de negócio ao deploy.
 
-<p align="left">My name is Breno Souza and I'm currently focused on Backend Development with Java and Spring Boot.</p>
+## 🚀 Projeto em destaque
 
-###
+**[Monexus Finance](https://github.com/obrenoxs/monexus-finance)** — plataforma de gestão financeira pessoal, full-stack (Java/Spring Boot + React), com testes automatizados, CI/CD e arquitetura documentada desde a primeira decisão.
 
-<h2 align="left">About me</h2>
+## 💼 Sobre mim
 
-###
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas (FATEC Botucatu) e Engenharia de Software (UniFatecie)
+- 🧠 Foco em Backend com Java e Spring Boot — com incursões práticas em Frontend (React)
+- 🏗️ Gosto de entender o *porquê* por trás de cada decisão técnica, não só o *como*
+- 🐳 Aprofundando conhecimentos em Docker, CI/CD e Cloud Computing
+- 🎯 Buscando minha primeira oportunidade como Desenvolvedor Backend Java
 
-<p align="left">🎓 Software Engineering <br><br>☕ Studying Java and Spring Boot<br><br>🗄️ Learning databases, JPA/Hibernate and REST APIs<br><br>🚀 Building projects and improving every day</p>
+## 🛠️ Stack
 
-###
+**Backend**
 
-<h2 align="left">Skills</h2>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-###
+**Frontend**
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40" alt="eclipseide logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-###
+**Ferramentas & DevOps**
 
-<h2 align="left">Connect with me!</h2>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-###
+## 📫 Conecte-se comigo
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/breno-oliveira-souza/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
