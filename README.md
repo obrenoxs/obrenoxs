@@ -22,10 +22,6 @@ Me chamo Breno Oliveira de Souza, tenho 18 anos, sou natural de Botucatu - SP. A
 
 ![Backend Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql)
 
-**Frontend**
-
-![Frontend Skills](https://skillicons.dev/icons?i=react,tailwind)
-
 **Ferramentas & DevOps**
 
 ![DevOps Skills](https://skillicons.dev/icons?i=docker,githubactions,git)
